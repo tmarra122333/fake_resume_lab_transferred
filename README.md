@@ -26,9 +26,9 @@ This is what he wants you to include and do for his resume:
   - change the font in at least one place
 
 ## Adding Content
-1. Insert a professional image of Grumpy Cat ('img' tag), it should be placed right after your 'h1' tags
-1. Insert an unordered list of his past three work positions ('ul' tag)
-1. Create links for LinkedIn and Facebook/Twitter pages ('a' tag). You can set this to a dummy link
+1. Insert a professional image of Grumpy Cat (`<img>` tag), it should be placed right after your `<h1>` tags
+1. Insert an unordered list of his past three work positions (`<ul>` tag)
+1. Create links for LinkedIn and Facebook/Twitter pages (`<a>` tag). You can set this to a dummy link
 1. Use level-three heading tags to create headings before the work positions and before the links
 
 :red_circle: **Commit your work!** <br>
@@ -38,9 +38,9 @@ Your commit message should read something like: <br>
 ## Adding Style
 Add some style to your site and feel free to style it however you want! Here are some ideas:
 
-1. Center your "h1" tag
-1. Change the font of your "h1" tag
-1. Change the color of the font of your "h3" tag
+1. Center your `<h1>` tag
+1. Change the font of your `<h1>` tag
+1. Change the color of the font of your `<h3>` tag
 1. Add some space on the body of your application to make your site look more appealing.
 
 :red_circle: **Commit your work!** <br>
@@ -64,15 +64,15 @@ Your commit message should read something like: <br>
 
 ## Bonus
 
-1. Insert a video of grumpy cat's work or his favorite YouTube video ('iframe' tag)
+1. Insert a video of grumpy cat's work or his favorite YouTube video (`<iframe>` tag)
 1. Add a level-three heading above his video with a title for the section
-1. Insert a table with his contact info (`table` tag)
+1. Insert a table with his contact info (`<table>` tag)
 1. Add a level-three heading above his contact info with a title for the section
 
 1. Give the image a 1px black border<br>
 1. Give the body of the page a thicker border than the picture but only on the top and bottom of the page
-1. Using HTML, insert a short blurb or biography with "p" tags
-1. Using HTML, insert a short description above your "p" tag; use an "h3" tag
+1. Using HTML, insert a short blurb or biography with `<p>` tags
+1. Using HTML, insert a short description above your `<p>` tag; use an `<h3>` tag
 1. Make his name uppercase <strong>using CSS</strong>
 
 1. Insert another image of grumpy cat, or an image of one of his projects, but make it round
