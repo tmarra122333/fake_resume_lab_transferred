@@ -6,4 +6,29 @@ body {
    
      h1 { Color: white;
         font-style: italic;
+        text-align: center;
+        font-size: 60px;
+    
+    }
+
+     ul {
+         color: whitesmoke;
+         font-size: 32px;
+
      }
+
+     li {color: black;
+        font-size: 20px;
+        font-style: oblique;
+        
+    }
+
+    h3 {text-align: center;
+        font-size: 24px;
+    }
+    
+    img {
+        display: block;
+        margin: auto;
+        align-content: center;
+    }
